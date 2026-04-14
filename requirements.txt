@@ -1,0 +1,15 @@
+# The notebook was written for the Colab/Kaggle images and pins some versions there.
+# These are the minimum direct dependencies.
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+lightgbm
+xgboost
+catboost
+torch
+shap
+matplotlib
+seaborn
+joblib
+jupyter
