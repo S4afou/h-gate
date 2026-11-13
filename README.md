@@ -89,8 +89,7 @@ part; the notebook caches intermediate arrays so a re-run does not start from ze
 ## Team and context
 
 This was a course project for the Data Security module (2SC IASD, ESI-SBA, 2025/2026, taught
-by M. Khaldi). The report lists four students: Aini Ines, Ben Terki Abdel-Ouakil, Benayed
-Mohammed Amjed and Medjahri Mohammed Safouane.
+by M. Khaldi).
 
 I wrote the implementation in this repository: the four base learners, the stacking
 pipeline, the threshold search, the HHO run and the SHAP analysis.
